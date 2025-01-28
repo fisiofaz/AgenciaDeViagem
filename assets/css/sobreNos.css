@@ -1,0 +1,22 @@
+.sobre-nos h2 {
+    color: #333;
+    font-size: 36px;
+}
+
+.sobre-nos h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.equipe .card {
+    border: none;
+}
+
+.equipe .card img {
+    height: 250px;
+    object-fit: cover;
+}
+
+.equipe .subtitle {
+    font-size: 1.5rem;
+}

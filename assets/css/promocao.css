@@ -1,0 +1,48 @@
+.container h2 {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+
+.carousel-item .img {
+    width: 400px;
+    border-radius: 10px;
+
+}
+.carousel-item img {
+    width: 100px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.text .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 2rem;
+    border-radius: 3rem;
+}
+
+.carousel-item h3 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.carousel-item p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.5;
+    margin-bottom: 2rem;
+}
+
+.slide {
+    background-color: #f7f7f7;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #d9534f;
+    border-radius: 50%;
+    padding: 10px;
+        
+}
+

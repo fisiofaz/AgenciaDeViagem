@@ -1,0 +1,13 @@
+.destinos {
+    background-color: #f1f1f1;
+    padding: 50px 0;
+}
+
+.destinos .subtitle {
+    font-size: 2.5rem;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}

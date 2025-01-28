@@ -1,0 +1,29 @@
+footer {
+    background: linear-gradient(135deg, #333, #555);
+    color: #fff;
+}
+
+footer h5 {
+    font-weight: 600;
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+}
+
+
+footer .border-top {
+    margin-top: 20px;
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+footer small {
+    font-size: 0.8rem;
+}
+
+.border-top .text {
+    margin-top: 10px;
+    color: #ffffff;
+}

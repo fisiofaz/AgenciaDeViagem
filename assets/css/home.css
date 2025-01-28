@@ -1,0 +1,39 @@
+
+
+.banner {
+    background: url('../image/cropped-agenciadeviagens.jpg') no-repeat center center/cover ;
+    color: white;
+    padding: 80px 0;
+}
+
+.banner h1 {
+    font-size: 3rem;
+    color: #000;
+    
+}
+
+.banner p {
+    font-size: 1.5rem;
+    color: #381ae4;
+    font-weight: 600;
+}
+
+.destinos-populares, .promocoes {
+    background-color: #f1f1f1;
+    padding: 50px 0;
+}
+
+.destinos-populares .subtitle, .promocoes .subtitle {
+    font-size: 1.5rem;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card a {
+    margin-top: 2rem;
+}
+
+

@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 10px 0px;
+}
+
+
+header .navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-brand .logo {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+}
+
+.destinos, .sobre-nos, .contato {
+    background-color: #f1f1f1;
+    padding: 50px 0;
+}
+
+#navbarNav ul li a {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+#navbarNav ul li a.active {
+    font-weight: 700;
+    color: #007bff;
+}
